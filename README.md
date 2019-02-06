@@ -1,6 +1,6 @@
-# Electron ShoppingList Desktop App
+# Electron Example
 
-This is a cross platform shoppinglist desktop application built on electron
+This is a cross platform electron example desktop application built on electron
 
 ### Version
 1.0.0
